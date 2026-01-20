@@ -1,0 +1,19 @@
+@charset "utf-8";
+body {
+    background-color: #20C8A6;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    text-shadow: 0px 0px;
+    font-weight: bolder;
+}
+h1 {
+    color: #D326B7;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-style: italic;
+}
+table {
+    color: #7621B5;
+    background-color: #0091E3;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: larger;
+}
